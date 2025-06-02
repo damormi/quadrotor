@@ -52,7 +52,7 @@ Mkfile.old
 dkms.conf
 
 # Papyrus related
-models/.metadata/
+models/quadrotor/papyrus/.metadata/
 *.project
 *.notation
 *.uml
