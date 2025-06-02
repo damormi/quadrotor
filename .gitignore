@@ -53,6 +53,7 @@ dkms.conf
 
 # Papyrus related
 models/quadrotor/papyrus/.metadata/
+models/quadrotor/papyrus/.settings/
 *.project
 *.notation
 *.uml
